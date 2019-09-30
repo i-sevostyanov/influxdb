@@ -1,8 +1,10 @@
-## v2.0.0-alpha.18 [unreleased]
+## v2.0.0-alpha.18 [2019-09-26]
 
 ### Features
 
 1. [15151](https://github.com/influxdata/influxdb/pull/15151): Add jsonweb package for future JWT support
+1. [15168](https://github.com/influxdata/influxdb/pull/15168): Added the JMeter Template dashboard
+1. [15152](https://github.com/influxdata/influxdb/pull/15152): Add JWT support to http auth middleware
 
 ### UI Improvements
 
@@ -15,6 +17,7 @@
 1. [15040](https://github.com/influxdata/influxdb/pull/15040): Redesign check builder UI to fill the screen and make more room for composing message templates
 1. [14990](https://github.com/influxdata/influxdb/pull/14990): Move Tokens tab from Settings to Load Data page
 1. [14990](https://github.com/influxdata/influxdb/pull/14990): Expose all Settings tabs in navigation menu
+1. [15289](https://github.com/influxdata/influxdb/pull/15289): Added Stream and table functions to query builder
 
 ### Bug Fixes
 
